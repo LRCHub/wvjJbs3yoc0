@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Forever Young",
+  "base_artist": "AK-69",
+  "createdAt": "2026-02-12T07:31:37.475848Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Forever Young",
+      "artist": "Lil Yachty feat. Diplo",
+      "has_synced": true,
+      "path": "select/01_Forever_Young_Lil_Yachty_feat._Diplo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Forever Young",
+      "artist": "Robin Wright",
+      "has_synced": true,
+      "path": "select/02_Forever_Young_Robin_Wright.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Forever Young",
+      "artist": "The Proclaimers",
+      "has_synced": false,
+      "path": "select/03_Forever_Young_The_Proclaimers.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Forever Young",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/04_Forever_Young_Bob_Dylan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Forever Young (feat. The Ready Set)",
+      "artist": "Metro Station feat. The Ready Set",
+      "has_synced": true,
+      "path": "select/05_Forever_Young_(feat._The_Ready_Set)_Metro_Station_feat._The_Ready_Set.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Forever Young",
+      "artist": "Bananarama",
+      "has_synced": true,
+      "path": "select/06_Forever_Young_Bananarama.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Forever Young",
+      "artist": "Chris Isaak",
+      "has_synced": false,
+      "path": "select/07_Forever_Young_Chris_Isaak.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Forever Young",
+      "artist": "Laura Branigan",
+      "has_synced": true,
+      "path": "select/08_Forever_Young_Laura_Branigan.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Forever Young",
+      "artist": "Tiffany",
+      "has_synced": false,
+      "path": "select/09_Forever_Young_Tiffany.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Forever Young [The Wild Ones]",
+      "artist": "BoDeans",
+      "has_synced": true,
+      "path": "select/10_Forever_Young_[The_Wild_Ones]_BoDeans.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Forever Young",
+      "artist": "Angel Olsen",
+      "has_synced": true,
+      "path": "select/11_Forever_Young_Angel_Olsen.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Forever Young",
+      "artist": "4 Strings",
+      "has_synced": false,
+      "path": "select/12_Forever_Young_4_Strings.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Forever Young",
+      "artist": "Beth Orton",
+      "has_synced": true,
+      "path": "select/13_Forever_Young_Beth_Orton.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Forever Young",
+      "artist": "Def Leppard",
+      "has_synced": false,
+      "path": "select/14_Forever_Young_Def_Leppard.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Forever Young",
+      "artist": "AK-69, UVERworld",
+      "has_synced": false,
+      "path": "select/pl_01_Forever_Young_AK-69,_UVERworld.txt"
+    }
+  ]
+}
